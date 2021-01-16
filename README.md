@@ -2,7 +2,7 @@
 <h3 align="center">I am a student at College</h3>
 
 
-- 🌱 I’m currently learning **JavaScript,Pyhton,Java**
+- 🌱 I’m currently learning **,C#,JavaScript,Pyhton,Java**
 
 - 📝 I regularly write articles on [https://huseyinozcan9.medium.com/](https://huseyinozcan9.medium.com/)
 
