@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hsynozcn009@gmail.com**
 
-- ⚡ Fun with Programming **I interested in Web Developing **
+- ⚡ Fun with Programming  **I interested in Web Developing** 
 
 
 <div>
