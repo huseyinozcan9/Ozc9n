@@ -2,13 +2,13 @@
 <h3 align="center">I am a student at College</h3>
 
 
-- 🌱 I’m currently learning **C#,JavaScript,Java**
+- 🌱 I’m currently learning **Python,JavaScript**
 
-- 📝 I regularly write articles on [https://huseyinozcan9.medium.com/](https://huseyinozcan9.medium.com/)
+- 📝 My medium account [https://huseyinozcan9.medium.com/](https://huseyinozcan9.medium.com/)
 
 - 📫 How to reach me **hsynozcn009@gmail.com**
 
-- ⚡ Fun with Programming  **I interested in Web Developing** 
+- ⚡ Fun with Programming  **I interested in Web Developing and Data Science** 
 
 
 <div>
