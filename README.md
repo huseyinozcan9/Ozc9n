@@ -3,11 +3,6 @@
 
 
 - 🌱 I’m currently learning **Python,JavaScript**
-
-- 📝 My medium account [https://huseyinozcan9.medium.com/](https://huseyinozcan9.medium.com/)
-
-- 📫 How to reach me **hsynozcn009@gmail.com**
-
 - ⚡ Fun with Programming  **I interested in Web Developing and Data Science** 
 
 
