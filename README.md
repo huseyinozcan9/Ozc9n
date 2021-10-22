@@ -2,7 +2,7 @@
 <h3 align="center">I am a student at College</h3>
 
 
-- 🌱 I’m currently learning **Python,R,JavaScript **
+- 🌱 I’m currently learning **Python,JavaScript **
 - ⚡ Fun with Programming  **I interested in Web Developing and Data Science** 
 
 
